@@ -1,0 +1,860 @@
+{
+  "subjectID": "6769964eac06d5aeb6c73308",
+  "gradeID": "000000000000000000000000",
+  "questionsBlock": {
+    "GroupA": [
+      {
+        "associatedMarks": "1",
+        "editorContent": {
+          "blocks": [
+            {
+              "id": "mR34LAmuYa",
+              "type": "paragraph",
+              "data": {
+                "text": "(i) 24°"
+              }
+            },
+            {
+              "id": "lAiA3xu6bw",
+              "type": "paragraph",
+              "data": {
+                "text": "(ii) 90°"
+              }
+            },
+            {
+              "id": "2PGFbo-hzz",
+              "type": "paragraph",
+              "data": {
+                "text": "(iii) 0°"
+              }
+            },
+            {
+              "id": "-Kgb1oQ4tU",
+              "type": "paragraph",
+              "data": {
+                "text": "(iv) 42°"
+              }
+            },
+            {
+              "id": "2WfLIMLxzL",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            },
+            {
+              "id": "iKJTbrG8uL",
+              "type": "paragraph",
+              "data": {
+                "text": "\u003cb\u003e(iv) 42°\n\n\u003c/b\u003e"
+              }
+            },
+            {
+              "id": "rp_bjSiUCH",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            }
+          ],
+          "time": 1737380760485,
+          "version": "2.30.7"
+        },
+        "questionType": "",
+        "title": "(i) नेपालको राजधानी काठमाडौँमा अवपातको मान कति हुन्छ । What is the value of angle of dip in the capital city of Nepal?"
+      },
+      {
+        "associatedMarks": "1",
+        "editorContent": {
+          "blocks": [
+            {
+              "id": "NW0Iv7Ownb",
+              "type": "paragraph",
+              "data": {
+                "text": "i. Respires through lungs"
+              }
+            },
+            {
+              "id": "cMpD5WToHM",
+              "type": "paragraph",
+              "data": {
+                "text": "ii. Vertebral column found in the body"
+              }
+            },
+            {
+              "id": "Pcci5pKqYA",
+              "type": "paragraph",
+              "data": {
+                "text": "iii. Viviparous"
+              }
+            },
+            {
+              "id": "s1bp-5eKRr",
+              "type": "paragraph",
+              "data": {
+                "text": "iv. Gives birth and suckle milk to young ones"
+              }
+            },
+            {
+              "id": "0Y-zyso0_7",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            },
+            {
+              "id": "qMqhvz48oE",
+              "type": "paragraph",
+              "data": {
+                "text": "\u003cb\u003eiv. Gives birth and suckle milk to young ones\u003c/b\u003e"
+              }
+            },
+            {
+              "id": "zr8xonoxqH",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            }
+          ],
+          "time": 1740492386862,
+          "version": "2.31.0-rc.7"
+        },
+        "questionType": "",
+        "title": "b. What is the main reason for classifying whales in the class mammalia?"
+      },
+      {
+        "associatedMarks": "1",
+        "editorContent": {
+          "blocks": [
+            {
+              "id": "eLp2Biin23",
+              "type": "paragraph",
+              "data": {
+                "text": "i. 0.25cm"
+              }
+            },
+            {
+              "id": "n8st_XKbWH",
+              "type": "paragraph",
+              "data": {
+                "text": "iii. 0.25m"
+              }
+            },
+            {
+              "id": "v1kXlPN3ly",
+              "type": "paragraph",
+              "data": {
+                "text": "ii. 25cm"
+              }
+            },
+            {
+              "id": "LABHzjT0k_",
+              "type": "paragraph",
+              "data": {
+                "text": "iv. 2.5cm"
+              }
+            },
+            {
+              "id": "m9b244rPZ5",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            },
+            {
+              "id": "gF3_m9Mekm",
+              "type": "paragraph",
+              "data": {
+                "text": "\u0026nbsp;\u0026nbsp;\u003cb\u003eiii. 0.25m\u003c/b\u003e"
+              }
+            },
+            {
+              "id": "Uib3IgSDjh",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            }
+          ],
+          "time": 1740299514559,
+          "version": "2.31.0-rc.7"
+        },
+        "questionType": "",
+        "title": "f. The distance of distinct vision for a normal eye is......"
+      },
+      {
+        "associatedMarks": "1",
+        "editorContent": {
+          "blocks": [
+            {
+              "id": "ShChhEce_a",
+              "type": "paragraph",
+              "data": {
+                "text": "i. 3A\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp; \u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp; ii. 3.4A"
+              }
+            },
+            {
+              "id": "jWhEGGWNKP",
+              "type": "paragraph",
+              "data": {
+                "text": "iii. 5 A\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp; iv.\n7A"
+              }
+            },
+            {
+              "id": "AhRgGz6UmB",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            },
+            {
+              "id": "Fo-H79U4Em",
+              "type": "paragraph",
+              "data": {
+                "text": "\u003cb\u003eii. 3.4A\u003c/b\u003e"
+              }
+            },
+            {
+              "id": "z_v-XZwHqS",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            }
+          ],
+          "time": 1738488193336,
+          "version": "2.30.7"
+        },
+        "questionType": "",
+        "title": "f. 750 W र 220V लेखिएको केटलीमा कति विद्युत् प्रवाह हुन सक्छ ? (What amount of current can flow in the kettle written with 750 W and 220V?)"
+      },
+      {
+        "associatedMarks": "1",
+        "editorContent": {
+          "blocks": [
+            {
+              "id": "1PJvsjxIvw",
+              "type": "paragraph",
+              "data": {
+                "text": "(i) इफोर्ट दूरी लोड दूरी (Effort distance = Load distance)"
+              }
+            },
+            {
+              "id": "p72WTX9b6a",
+              "type": "paragraph",
+              "data": {
+                "text": "(ii) इफोर्ट लोड (Effort = Load)"
+              }
+            },
+            {
+              "id": "6dZLN6iLuM",
+              "type": "paragraph",
+              "data": {
+                "text": "(iii) गति अनुपात कार्य क्षमता (Velocity ratio = Efficiency)"
+              }
+            },
+            {
+              "id": "RMOet4A80_",
+              "type": "paragraph",
+              "data": {
+                "text": "(iv) इफोर्ट इफोर्ट दुरीलोड लोड पुरी (Effon x Effort distance =\u0026nbsp; Load x Load distance)"
+              }
+            },
+            {
+              "id": "Lyb8so123a",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            },
+            {
+              "id": "qvkMT1hLFL",
+              "type": "paragraph",
+              "data": {
+                "text": "\u003cb\u003e(iv) Effort × Effort distance = Load × Load distance\n\n\u003c/b\u003e"
+              }
+            },
+            {
+              "id": "G9rcDDTDKe",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            }
+          ],
+          "time": 1737356605323,
+          "version": "2.30.7"
+        },
+        "questionType": "",
+        "title": "(c) का माये उसको कार्य हो? Which of the following is the working principle of lever?"
+      },
+      {
+        "associatedMarks": "1",
+        "editorContent": {
+          "blocks": [
+            {
+              "id": "Bl90L52S36",
+              "type": "paragraph",
+              "data": {
+                "text": "(i) घाममा वस्था न्यानो अनुभव हुनु (Feeling warm while sunbathing)"
+              }
+            },
+            {
+              "id": "J4J_YrxkoI",
+              "type": "paragraph",
+              "data": {
+                "text": "(ii) बल्दै गरेको ग्रुपको समितिर उड्नु (Smoke rising up from the burning incense stick)"
+              }
+            },
+            {
+              "id": "DAs1E8Vl-r",
+              "type": "paragraph",
+              "data": {
+                "text": "(iii) स्टीलको गिलास तातो पानी विलास तातिनु (Steel [glass] becotthes hot while keeping hot water.)"
+              }
+            },
+            {
+              "id": "CEEGxMumex",
+              "type": "paragraph",
+              "data": {
+                "text": "(iv) पानी तताउँदा सातिएको रानीका अगुहरूमाथि आउनु (Hot molecules of water rise up while heating water.)"
+              }
+            },
+            {
+              "id": "hESNDsAXYW",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            },
+            {
+              "id": "JQbqNPoDlX",
+              "type": "paragraph",
+              "data": {
+                "text": "\u003cb\u003e(i) Feeling warm while sunbathing.\u003c/b\u003e"
+              }
+            },
+            {
+              "id": "ficn2w2zt1",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            }
+          ],
+          "time": 1737529755297,
+          "version": "2.30.7"
+        },
+        "questionType": "",
+        "title": "(c) तल दिइएकामध्ये कुन विकिरण प्रक्रियाको उदाहरण हो ? (Which one from the followings is an example of radiation?)"
+      },
+      {
+        "associatedMarks": "1",
+        "editorContent": {
+          "blocks": [
+            {
+              "id": "hFGbbL93_m",
+              "type": "paragraph",
+              "data": {
+                "text": "(i) गुगल, माइक्रोसफ्ट एज, सफारी, मोजिला फायरफक्स (Google, Microsoft edge, Safari, Mozilla firefox)"
+              }
+            },
+            {
+              "id": "nR0Z6cpccJ",
+              "type": "paragraph",
+              "data": {
+                "text": "(ii) गुगल क्रोम, माइक्रोसफ्ट एज, सफारी, मोजिला फायरफक्स ( Google chrome, Microsoft edge, Safari, Mozilla firefox)"
+              }
+            },
+            {
+              "id": "U3gXwf2eAK",
+              "type": "paragraph",
+              "data": {
+                "text": "(iii) विड, माइक्रोसफ्ट एज, सफारी, गुगल क्रोम (Bing. Microsoft edge, Safari, Google chrome)"
+              }
+            },
+            {
+              "id": "GrGQPQSz9G",
+              "type": "paragraph",
+              "data": {
+                "text": "(iv) गुगल, माइक्रोसफ्ट एन, याहू, मोजिला फायरफक्स (Google, Microsoft edge, Yahoo, Mozilla Firefox)"
+              }
+            },
+            {
+              "id": "jZBcc0u6zY",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            },
+            {
+              "id": "iecy3sMZo3",
+              "type": "paragraph",
+              "data": {
+                "text": "\u003cb\u003e(ii) Google Chrome, Microsoft Edge, Safari, Mozilla Firefox.\u003c/b\u003e"
+              }
+            },
+            {
+              "id": "201-gTFumq",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            }
+          ],
+          "time": 1737529664603,
+          "version": "2.30.7"
+        },
+        "questionType": "",
+        "title": "(i) तल दिइएका मध्ये कम्प्युटर ब्राउजरहरूको समूह कुन हो ? Which one of the followings is the group of computer browser?"
+      },
+      {
+        "associatedMarks": "1",
+        "editorContent": {
+          "blocks": [
+            {
+              "id": "e2ChuFnDVK",
+              "type": "paragraph",
+              "data": {
+                "text": "(i) माटोको उर्वरा शक्ति बढाउने (To increase fertility of soil)"
+              }
+            },
+            {
+              "id": "c34dIoGxF3",
+              "type": "paragraph",
+              "data": {
+                "text": "(ii) सामाग्रीहरू रिसाइकल गर्न (In recycling of materials)"
+              }
+            },
+            {
+              "id": "srhTNlImMp",
+              "type": "paragraph",
+              "data": {
+                "text": "(iii) एन्टिबायोटिकको रूपमा प्रयोग गर्न (To use as an antibiotics)"
+              }
+            },
+            {
+              "id": "DutIsNBBBU",
+              "type": "paragraph",
+              "data": {
+                "text": "(iv) माथिका सबै (All of the above)"
+              }
+            },
+            {
+              "id": "duEyMKtIIp",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            },
+            {
+              "id": "L0eYOndHIu",
+              "type": "paragraph",
+              "data": {
+                "text": "\u003cb\u003e(iv) माथिका सबै (All of the above)\u003c/b\u003e"
+              }
+            },
+            {
+              "id": "XyU5fv2zGP",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            }
+          ],
+          "time": 1737352783117,
+          "version": "2.30.7"
+        },
+        "questionType": "",
+        "title": "(d) फन्जाइ ______ मा प्रयोग हुन्छ (Fungi are useful________)"
+      }
+    ],
+    "GroupB": [
+      {
+        "associatedMarks": "1",
+        "editorContent": {
+          "blocks": [
+            {
+              "id": "yEPgfLuFQT",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            },
+            {
+              "id": "bnKJ0RnHUS",
+              "type": "paragraph",
+              "data": {
+                "text": "Answer:\u0026nbsp;"
+              }
+            },
+            {
+              "id": "bVG-ZUAMf5",
+              "type": "paragraph",
+              "data": {
+                "text": "One difference between saturated and unsaturated hydrocarbons is:"
+              }
+            },
+            {
+              "id": "904lawZ3f3",
+              "type": "List",
+              "data": {
+                "text": ""
+              }
+            },
+            {
+              "id": "eDkch-NwOu",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            }
+          ],
+          "time": 1740662664798,
+          "version": "2.31.0-rc.7"
+        },
+        "questionType": "short_question",
+        "title": "i. संतृप्त हाइड्रोकार्बन र असंतृप्त हाइड्रोकार्बनबिच एउटा भिन्नता लेख्नुहोस् । (Write a difference between saturated hydrocarbon and unsaturated hydrocarbon.)"
+      },
+      {
+        "associatedMarks": "1",
+        "editorContent": {
+          "blocks": [
+            {
+              "id": "4ik8GmnOXN",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            },
+            {
+              "id": "JxyAW62W6B",
+              "type": "paragraph",
+              "data": {
+                "text": "Answer: A \u003cb\u003edigital\nsignal\u003c/b\u003e is a type of signal that represents data in discrete levels or\nvalues, often in binary form (0s and 1s), which can be processed and\ntransmitted electronically."
+              }
+            },
+            {
+              "id": "OgSttjd2Ch",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            }
+          ],
+          "time": 1740147664070,
+          "version": "2.31.0-rc.7"
+        },
+        "questionType": "short_question",
+        "title": "a. डिजिटल सङ्केतको परिभाषा दिनुहोस् । (Define digital signal.)"
+      },
+      {
+        "associatedMarks": "1",
+        "editorContent": {
+          "blocks": [
+            {
+              "id": "NQjUoiyMVe",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            },
+            {
+              "id": "OM30fYd66i",
+              "type": "paragraph",
+              "data": {
+                "text": "Answer: An \u003cb\u003eencoder\u003c/b\u003e\nin a digital communication system converts the input message or data into a\nbinary code or signal, making it suitable for transmission."
+              }
+            },
+            {
+              "id": "2erprg7rY-",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            }
+          ],
+          "time": 1740118641404,
+          "version": "2.31.0-rc.7"
+        },
+        "questionType": "short_question",
+        "title": "a. डिजिटल सञ्चार प्रणालीमा इन्कोडरको काम लेख्नुहोस् । (What is the function of encoder in digital communication system?)"
+      },
+      {
+        "associatedMarks": "1",
+        "editorContent": {
+          "blocks": [
+            {
+              "id": "XCxaBqA_Bv",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            },
+            {
+              "id": "_Qj-UwO4iS",
+              "type": "paragraph",
+              "data": {
+                "text": "Answer: The kidneys filter blood to remove waste products and excess water, forming urine. They also help regulate blood pressure, electrolyte balance, and red blood cell production."
+              }
+            },
+            {
+              "id": "W2QmhhHYjf",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            }
+          ],
+          "time": 1737381415174,
+          "version": "2.30.7"
+        },
+        "questionType": "short_question",
+        "title": "3. मानव शरिरमा मृगौलाको कार्य के हो ? (What is the function of kidney in human body?)"
+      },
+      {
+        "associatedMarks": "5",
+        "editorContent": {
+          "blocks": [
+            {
+              "id": "hCnS3Y1nUA",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            },
+            {
+              "id": "lKuqQKXLrA",
+              "type": "latex",
+              "data": {
+                "text": ""
+              }
+            },
+            {
+              "id": "qC6OwIyqlN",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            }
+          ],
+          "time": 1744335887196,
+          "version": "2.31.0-rc.7"
+        },
+        "questionType": "short_question",
+        "title": "14. A coinage metal (M) of electronic configuration (Ar) 3d¹⁰, 4s¹ belongs to group IB in the periodic table.\na) Draw a blast furnace for the smelting process during the extraction of (M) using its chief ore. [2]\nb) Explain the different chemical reactions involved during the formation of matte in the furnace. [3]"
+      },
+      {
+        "associatedMarks": "1",
+        "editorContent": {
+          "blocks": [
+            {
+              "id": "oooJTbQnDc",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            },
+            {
+              "id": "ir7iKJdN46",
+              "type": "paragraph",
+              "data": {
+                "text": "Answer: Observation in scientific studies refers to the process of carefully watching and examining a phenomenon or event using the senses or scientific instruments to gather information."
+              }
+            },
+            {
+              "id": "8BsNw1YnVl",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            }
+          ],
+          "time": 1737350056911,
+          "version": "2.30.7"
+        },
+        "questionType": "short_question",
+        "title": "2. वैज्ञानिक अध्ययनमा अवलोकन केलाई भनिन्छ ? (What is called observation in scientific studies?).\n"
+      }
+    ],
+    "GroupC": [
+      {
+        "associatedMarks": "2",
+        "editorContent": {
+          "blocks": [
+            {
+              "id": "IXs_4k5nL5",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            },
+            {
+              "id": "VWYkI4R4RC",
+              "type": "paragraph",
+              "data": {
+                "text": "Answer: Here are two differences between AC (Alternating\nCurrent) and DC (Direct Current):"
+              }
+            },
+            {
+              "id": "3-zr8aQFsf",
+              "type": "Table",
+              "data": {
+                "text": ""
+              }
+            },
+            {
+              "id": "SDRVX3NCpi",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            }
+          ],
+          "time": 1740295131280,
+          "version": "2.31.0-rc.7"
+        },
+        "questionType": "short_question",
+        "title": "12. Write any two differences between AC and DC."
+      },
+      {
+        "associatedMarks": "2",
+        "editorContent": {
+          "blocks": [
+            {
+              "id": "qGOo2yxMqb",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            },
+            {
+              "id": "1mNLPa_yJ6",
+              "type": "paragraph",
+              "data": {
+                "text": "Answer: \u003cb\u003eTo calculate\nthe height, we use the equation of motion for free fall:\u003c/b\u003e"
+              }
+            },
+            {
+              "id": "EHFtVUs16r",
+              "type": "paragraph",
+              "data": {
+                "text": "h = 1 / 2 gt2"
+              }
+            },
+            {
+              "id": "yPavUrfJKk",
+              "type": "paragraph",
+              "data": {
+                "text": "Where:"
+              }
+            },
+            {
+              "id": "BnR5Z88hQl",
+              "type": "paragraph",
+              "data": {
+                "text": "●\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\nh = height"
+              }
+            },
+            {
+              "id": "uPaAe0syOy",
+              "type": "paragraph",
+              "data": {
+                "text": "●\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\ng = acceleration due to gravity = 9.8 m/s²"
+              }
+            },
+            {
+              "id": "rtsEeRj5vy",
+              "type": "paragraph",
+              "data": {
+                "text": "●\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\nt= time = 2 seconds"
+              }
+            },
+            {
+              "id": "vQsIM6BQCH",
+              "type": "paragraph",
+              "data": {
+                "text": "h=12×9.8×(2)2=19.6 m"
+              }
+            },
+            {
+              "id": "QTceN_xG5L",
+              "type": "paragraph",
+              "data": {
+                "text": "\u003cb\u003eSo, the height of the\nbridge is 19.6 meters.\u003c/b\u003e"
+              }
+            },
+            {
+              "id": "985IZcvpsn",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            }
+          ],
+          "time": 1740476479041,
+          "version": "2.31.0-rc.7"
+        },
+        "questionType": "short_question",
+        "title": "11. कोसीको पुलको उचाइ पत्ता लगाउन एउटा ढुङ्गा उक्त पुलबाट खसालिन्छ । यदि ढुङ्गा पुलबाट स्वतन्त्र रुपमा खस्दा पानीको सतहसम्म आइपुग्न २ सेकेन्ड लाग्छ भने उक्त पुलको पानीको सतहसम्म आइपुग्न २ सेकेन्ड लाग्छ भने उक्त पुलको पानीको सतहभन्दा माथिको उचाइ कति होला ? पत्ता लगाउनुहोस् । (To estimate the height of the Koshi Bridge over a river, a stone is dropped freely in the river from the bridge. The stone takes 2 seconds to touch the water surface. Calculate the height of the Koshi Bridge from the water level.)"
+      },
+      {
+        "associatedMarks": "2",
+        "editorContent": {
+          "blocks": [],
+          "time": 0,
+          "version": ""
+        },
+        "questionType": "short_question",
+        "title": "13. दिइएको चित्रमा टेस्ट ट्युबभित्र हुने रासायनिक प्रतिक्रियाको प्रकार लेख्नुहोस् ? यस प्रतिक्रियाको सन्तुलित रासायनिक समिकरण पनि लेख्नुहोस् ।) (Write down the type of chemical reaction that occurs inside the test tube in the given figure? Also write down the balanced chemical equation of that reaction.)"
+      },
+      {
+        "associatedMarks": "2",
+        "editorContent": {
+          "blocks": [
+            {
+              "id": "CSEJ4gr6Dp",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            },
+            {
+              "id": "Ts3KmVY5hJ",
+              "type": "paragraph",
+              "data": {
+                "text": "Answer: Justification for the statement about gravitational\nforce in star birth and death:"
+              }
+            },
+            {
+              "id": "D-HxKK7Ipq",
+              "type": "paragraph",
+              "data": {
+                "text": "●\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\nStar birth: Gravitational force causes the collapse of\ngas clouds, leading to nuclear fusion and the birth of stars."
+              }
+            },
+            {
+              "id": "-vRV7CLf1i",
+              "type": "paragraph",
+              "data": {
+                "text": "●\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\nStar death: Gravitational force plays a crucial role in\nthe collapse of a star after it exhausts its nuclear fuel, leading to the\nformation of black holes or white dwarfs."
+              }
+            },
+            {
+              "id": "x19xNtHZJQ",
+              "type": "answerSeparator",
+              "data": {
+                "text": ""
+              }
+            }
+          ],
+          "time": 1739976527221,
+          "version": "2.31.0-rc.7"
+        },
+        "questionType": "short_question",
+        "title": "9. “ताराहरूको जन्म र मृत्यु दुवैका लागि गुरुत्वाकर्षण बलको महत्त्व निकै बढी हुन्छ ।\" यस भनाइलाई पुष्टि गर्नुहोस् । (\"Role of gravitational force is very important for the birth and death of a star.\" Justify the statement.)"
+      }
+    ]
+  }
+}
